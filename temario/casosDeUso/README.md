@@ -1,4 +1,4 @@
-# Casos de uso
+# 00_Intro
 
 |Caso de uso|Código|Breve descripción
 |-|:-:|-|
