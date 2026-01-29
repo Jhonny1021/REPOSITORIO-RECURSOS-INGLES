@@ -1,11 +1,17 @@
-# Inglés: From Zero to Hero
+# 🇬🇧 Inglés: From Zero to Hero
 
 Repositorio de materiales y recursos del curso de inglés **From Zero to Hero**, diseñado para llevarte desde un nivel principiante hasta avanzado, siguiendo los estándares del [MCER (Marco Común Europeo de Referencia)](https://www.coe.int/en/web/common-european-framework-reference-languages).
 
 ## Curso *2025/2026*
 
+### ☁️ Acceso Rápido (Google Drive)
+⚠️ **¿Problemas para ver archivos aquí?** Accede a la carpeta base en la nube con todos los originales, videos pesados y plantillas editables:
+> **[👉 CLIC AQUÍ PARA IR A LA CARPETA COMPLETA DE GOOGLE DRIVE](https://drive.google.com/drive/folders/1YF2XmQ0L8QuvLfPEjBa2OtvzuMsVxu_P?usp=drive_link)**
+
+---
+
 ### 📚 Temario y Niveles
-Aquí encontrarás los materiales organizados por niveles, tal como están en la carpeta de clase:
+Aquí encontrarás los materiales organizados por niveles, sincronizados con la carpeta de clase:
 
 - [🔰 Lo que debes saber antes de empezar](temario/00_Intro/README.md)
   - *Guías sobre niveles MCER, manejo de la frustración y consejos iniciales.*
@@ -25,18 +31,4 @@ Aquí encontrarás los materiales organizados por niveles, tal como están en la
 
 ## 🛠 Herramientas y Recursos Recomendados
 
-- [Diccionarios Online](https://www.wordreference.com/) & [Cambridge Dictionary](https://dictionary.cambridge.org/)
-- **Apps Útiles:**
-  - [Duolingo](https://es.duolingo.com/) / [Anki](https://apps.ankiweb.net/) (Para repaso de vocabulario A1/A2)
-- **Material Audiovisual:**
-  - [Video de Bienvenida](temario/Video_de_bienvenida.mp4)
-  - Podcasts y canales de YouTube recomendados.
-
-## 📖 Bibliografía & Enlaces de interés
-
-- Guías oficiales de niveles MCER.
-- Libros de lectura graduada (Graded Readers).
-- Este repositorio se actualiza constantemente con nuevo material de clase.
-
----
-*Repositorio mantenido por el profesor de la asignatura.*
+- [Diccionarios Online](https://www.wordreference.com/)
